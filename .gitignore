@@ -1,0 +1,12 @@
+# Not storing plots
+**/plots/*
+**.png
+**.jpg
+# Not storing temporal jupyter files
+**/__pycache__/*
+**/.ipynb_checkpoints/*
+**.log
+**.out
+# Other large files
+**.h5
+**.pkl
